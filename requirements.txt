@@ -2,4 +2,4 @@ psutil==5.9.3
 pyptables==0.2.4
 pycrypto==2.6.1
 subprocess32==3.5.4
-requests==2.28.2
+requests==2.32.2
